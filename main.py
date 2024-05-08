@@ -1,1 +1,1 @@
-print (Nombre: Amelia Kooppler)
+print (Nombre: Amelia Kooppler Carne: 1587624)
